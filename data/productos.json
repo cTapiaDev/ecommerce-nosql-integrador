@@ -1,0 +1,32 @@
+[
+    {
+        "_id": { "$oid": "650a1b2c3d4e5f6a7b8c9d01" },
+        "sku": "ELEC-TV-001",
+        "categoria": "Electronica",
+        "nombre": "Smart TV 55 Pulgadas 4K",
+        "precio_centavos": 45000000,
+        "en_oferta": true,
+        "detalles_especificos": {
+            "resolucion": "4K",
+            "puertos_hdmi": 3,
+            "smart_os": "WebOS"
+        },
+        "stock_disponible": 15,
+        "fecha_ingreso": { "$date": "2026-08-15T00:00:00Z" }
+    },
+    {
+        "_id": { "$oid": "650a1b2c3d4e5f6a7b8c9d02" },
+        "sku": "ROPA-CAM-002",
+        "categoria": "Vestuario",
+        "nombre": "Camisa de Lino Hombre",
+        "precio_centavos": 2500000,
+        "en_oferta": false,
+        "detalles_especificos": {
+            "talla": "L",
+            "color": "Blanco",
+            "material": "100% Lino"
+        },
+        "stock_disponible": 50,
+        "fecha_ingreso": { "$date": "2026-09-01T00:00:00Z" }
+    }
+]
