@@ -26,10 +26,10 @@ Este repositorio contiene la implementación y validación de un modelo de base 
 
 1. Clonar el repositorio:
 
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd ecommerce-nosql-integrador
-    ```
+```bash
+git clone https://github.com/cTapiaDev/ecommerce-nosql-integrador
+cd ecommerce-nosql-integrador
+```
 
 2. Instalar dependencias:
 
