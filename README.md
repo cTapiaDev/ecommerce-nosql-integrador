@@ -1,4 +1,4 @@
-# Arquitectura NoSQL para E-Commerce - Integradora II
+# Arquitectura NoSQL para E-Commerce
 
 Este repositorio contiene la implementación y validación de un modelo de base de datos orientado a documentos (MongoDB) diseñado para soportar la alta demanda y variabilidad de un catálogo de comercio electrónico.
 
